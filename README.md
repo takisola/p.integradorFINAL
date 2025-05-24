@@ -3,7 +3,7 @@
 ## Status do Projeto
 Finalizado
 
-## 🛠 Tecnologias Aplicadas
+##  Tecnologias Aplicadas
 - Java (linguagem principal)
 - MySQL (banco de dados relacional)
 - JDBC (Java Database Connectivity)
